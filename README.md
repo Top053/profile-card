@@ -15,7 +15,7 @@ This project implements the assignment requirements:
 
 ## Live demo
 
-(Place your live URL here after deployment, e.g. GitHub Pages / Netlify)
+https://top053.github.io/profile-card/
 
 ---
 
